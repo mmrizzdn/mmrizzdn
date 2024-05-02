@@ -16,9 +16,7 @@
 
 <h1 align="left">
 
-[![mmrizzdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrizzdn&show_icons=true&hide_title=true&theme=dark&count_private=false&card_width=500)](https://github.com/mmrizzdn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/mmrizzdn)
+[![mmrizzdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrizzdn&show_icons=true&hide_title=true&theme=dark&count_private=false&card_width=500)](https://github.com/mmrizzdn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/mmrizzdn)
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="280px"></img>
 
