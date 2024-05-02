@@ -14,7 +14,7 @@
 
 <h3 align="left">My Stats:</h3>
 
-<div align="center">
+<div align="left">
 
 [![mmrizzdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrizzdn&show_icons=true&hide_title=true&theme=dark&count_private=false&card_width=500)](https://github.com/mmrizzdn)
 
