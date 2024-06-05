@@ -15,4 +15,6 @@
 
 <h3 align="left">My Stats:</h3>
 
+[![mmrizzdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrizzdn&show_icons=true&hide_title=true&theme=dark&count_private=false&card_width=500)](https://github.com/mmrizzdn)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/mmrizzdn)
