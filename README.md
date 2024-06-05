@@ -3,7 +3,7 @@
 <div align="center">
     <h1 align="center">Hi, I'm Ammar 👋</h1>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile!;I+Am+A+Backend+Enthusiast;Also+I+Like+Deep+Learning" alt="Typing SVG">
     </a>
     <p>
         <img src="https://komarev.com/ghpvc/?username=mmrizzdn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="u77w41" />
@@ -46,7 +46,7 @@
   <a href="https://sequelize.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sequelize-Dark.svg" alt="prisma" width="40" height="40"/>
   </a>
-  
+
   <!-- postgresql -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
@@ -75,6 +75,11 @@
    <!-- laravel -->
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/>
+  </a>
+
+  <!-- pycharm -->
+  <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" alt="pycharm" width="40" height="40"/>
   </a>
 
   <!-- python -->
