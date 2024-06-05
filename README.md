@@ -15,6 +15,10 @@
 
 <h3 align="left">My Stats:</h3>
 
-[![mmrizzdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrizzdn&show_icons=true&hide_title=true&theme=dark&count_private=false&card_width=500)](https://github.com/mmrizzdn)
+![mmrizzd's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mmrizzdn&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/mmrizzdn)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmrizzdn&layout=compact&theme=dark)
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,js,nodejs,express,postgres,mysql,firebase,gcp,python,pytorch,sklearn,php,laravel,flutter,dart,ubuntu,html,css,bootstrap&theme=dark)](https://skillicons.dev)
