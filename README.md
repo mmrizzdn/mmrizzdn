@@ -7,20 +7,20 @@
 </div>
 
 <div align="center">
-    <h1>Hi, There 👋</h1>
+    <h1>Hi, There! 👋</h1>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile!;I+Am+A+Backend+Developer" alt="Welcoming Text">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+mono&pause=1000&color=00c647&center=true&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile!;I+Am+A+Back-End+Developer" alt="Welcoming Text">
     </a>
     <p>
-        <img src="https://komarev.com/ghpvc/?username=mmrizzdn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=mmrizzdn&label=Profile%20views&color=00c647&style=for-the-badge&abbreviated=true" alt="Profile Views" />
     </p>
 </div>
 
-<h3 align="left">My Stats:</h3>
+<h3 align="left">Stats:</h3>
 
-![mmrizzd's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mmrizzdn&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![mmrizzd's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mmrizzdn&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues&icon_color=00c647)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmrizzdn&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&layout=compact&theme=dark&card_width=495)](https://github.com/mmrizdn)
 
 <h3 align="left">Top Languages and Tools:</h3>
 <p align="left">
