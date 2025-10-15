@@ -20,7 +20,7 @@
 
 ![mmrizzd's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mmrizzdn&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,issues&icon_color=00c647)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&layout=compact&theme=dark)](https://github.com/mmrizdn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmrizzdn&layout=compact&theme=dark&card_width=496)](https://github.com/mmrizdn)
 
 <h3 align="left">Top Languages and Tools:</h3>
 <p align="left">
